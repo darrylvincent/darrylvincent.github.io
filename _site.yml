@@ -1,15 +1,15 @@
-name: "Emily C. Zabor"
+name: "Decision Support Tool"
 output_dir: "."
 navbar:
-  title: "Emily C. Zabor"
+  title: "Decision Support Tool"
   left:
-    - text: "Writing"
-      href: research.html
-    - text: "Speaking"
+    - text: "Team"
+      href: team.html
+    - text: "Purpose"
       href: talks.html
-    - text: "Programming"
+    - text: "Tool"
       href: software.html
-    - text: "Teaching"
+    - text: "Other"
       href: teaching.html
   right:
     - icon: fa-envelope fa-lg
